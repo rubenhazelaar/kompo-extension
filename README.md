@@ -43,6 +43,13 @@ Please note: testing is still a work-in-progress and you can help out! Please ch
 
 ## How to use
 
+```javascript
+import extension from 'kompo-extension';
+extension(/* add prefix if you like */); 
+
+// Use extended functions on all Elements;
+```
+
 Check out `./src/extension.js` for all avaiable functions and their descriptions.
 
 ## Contribute
