@@ -2,7 +2,7 @@
 
 This repository contains utility functions which are provided for ease-of-use or syntactic sugar, more or less specific for the Kompo library.
 
-BEWARE: It extends builtin javascript objects, so if you don't like that don't use this repository. [github.com/rubenhazelaar/kompo-util](Take a look at Kompo Util)
+BEWARE: It extends builtin javascript objects, so if you don't like that don't use this repository. [Take a look at Kompo Util](https://github.com/rubenhazelaar/kompo-util)
 
 ## Kompo
 
