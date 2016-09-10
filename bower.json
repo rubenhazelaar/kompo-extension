@@ -1,0 +1,29 @@
+{
+  "name": "kompo-extension",
+  "description": "Builtin extensions for the Kompo library. Kompo is a react like library which tries to stay simple as possible. No virtual DOM or JSX. Kompo loves the DOM.",
+  "main": "./lib/index.js",
+  "authors": [
+    "Ruben Hazelaar <ruben.hazelaar@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "view",
+    "components",
+    "javascript",
+    "interface",
+    "DOM",
+    "Utility"
+  ],
+  "homepage": "https://github.com/rubenhazelaar/kompo-util",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
